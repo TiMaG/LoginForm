@@ -1,0 +1,23 @@
+body {
+    background-color: #c9beff;
+    color: rgb(46, 32, 32);
+    text-shadow: 1px 1px 1px #333;
+    margin: 40px;
+  }
+  #message {
+    font-weight: bold;
+    margin-top: 10px;
+  }
+  
+  #error-message {
+    color: red;
+    font-weight: bold;
+    margin: 10px;
+  }
+  
+  #success-message {
+    color: green;
+    font-weight: bold;
+    margin: 10px;
+  }
+
